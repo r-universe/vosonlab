@@ -1,0 +1,14 @@
+[
+  {
+    "package": "voson.tcn",
+    "oncran": true
+  },
+  {
+    "package": "VOSONDash",
+    "oncran": true
+  },
+  {
+    "package": "vosonSML",
+    "oncran": true
+  }
+]
