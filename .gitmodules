@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "voson.tcn"]
-	path = voson.tcn
-	url = https://github.com/vosonlab/voson.tcn
 [submodule "VOSONDash"]
 	path = VOSONDash
 	url = https://github.com/vosonlab/vosondash
+[submodule "voson.tcn"]
+	path = voson.tcn
+	url = https://github.com/vosonlab/voson.tcn
 [submodule "vosonSML"]
 	path = vosonSML
 	url = https://github.com/vosonlab/vosonsml
